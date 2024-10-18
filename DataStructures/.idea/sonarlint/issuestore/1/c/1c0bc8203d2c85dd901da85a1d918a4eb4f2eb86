@@ -1,0 +1,14 @@
+
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÿªŸ¶ÿÿÿÿÿ8ªâ¤á1
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÿªŸ¶ÿÿÿÿÿ8¯â¤á1
+^
+java:S4973'"<Strings and Boxed types should be compared using "equals()".(ÿªŸ¶ÿÿÿÿÿ8±â¤á1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËãÄ28‡˜´îŞ1
+G
+java:S1197."*Move the array designators [] to the type.(‚ÜÌÇ8³şîÔŞ1
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(öˆÇÃùÿÿÿÿ8¹şîÔŞ1
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(×¦ÉËùÿÿÿÿ8ºşîÔŞ1
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(‹¬˜‚8ºşîÔŞ1
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(¡û÷Ïûÿÿÿÿ8å¾ïÔŞ1

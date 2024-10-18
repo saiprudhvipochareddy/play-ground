@@ -1,0 +1,16 @@
+
+=
+java:S21899""Correct this loop's end condition.(œÿ¦úÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ˆæèûûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×Æáî
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ù£·êıÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ
+M	java:S106'"9Replace this use of System.out or System.err by a logger.(°•Ş
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ
+M	java:S1063"9Replace this use of System.out or System.err by a logger.(°•Ş
+T
+java:S22519"9"i" is decremented and will never reach "stop condition".(œÿ¦úÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ
+M	java:S106A"9Replace this use of System.out or System.err by a logger.(°•Ş
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ
+M	java:S106P"9Replace this use of System.out or System.err by a logger.(°•Ş
