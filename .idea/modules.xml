@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CompletableFuture/Future/Future.iml" filepath="$PROJECT_DIR$/CompletableFuture/Future/Future.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaConcepts/JavaConcepts.iml" filepath="$PROJECT_DIR$/JavaConcepts/JavaConcepts.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ProgrammingCollection.iml" filepath="$PROJECT_DIR$/.idea/ProgrammingCollection.iml" />
     </modules>
   </component>
